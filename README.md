@@ -24,7 +24,7 @@ Print the coding to get answer.
 ## Program:
 ``` python
 Program to circulate N values.
-Developed by: Harini
+Developed by: Harini V
 RegisterNumber:22004214
 def circulate():
     a=eval(input())
